@@ -59,9 +59,9 @@
 ---
 
 <h3 align="left">🏆 Achievements:</h3>
-<p>- Successfully architected and deployed a **Scalable Cab Booking Backend** using **Microservices Architecture** 🚗💻</p>
+<p>- Successfully architected and deployed a **Scalable Cab Booking Backend** using **MERN STACK** 🚗💻</p>
 <p>- Optimized database queries and implemented caching strategies for high-performance systems ⚡</p>
-<p>- Contributed to open-source projects focused on **Backend Innovations** and **Cloud Computing** 🌐</p>
+<p>- Contributed to open-source projects focused on **Backend Innovations** </p>
 
 ---
 
